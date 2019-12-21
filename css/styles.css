@@ -1,0 +1,16 @@
+body {
+  background-color: #ffffff;
+}
+
+.header .item {
+  color: #626262;
+}
+
+.header .item:hover,
+.header .item:focus {
+  color: #03a9f4;
+}
+
+.main .title {
+  color: #b4ad9e;
+}
