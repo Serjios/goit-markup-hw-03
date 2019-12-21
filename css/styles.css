@@ -1,16 +1,23 @@
+:root {
+}
+
 body {
   background-color: #ffffff;
 }
 
-.header .item {
+.site-nav .link {
   color: #626262;
 }
 
-.header .item:hover,
-.header .item:focus {
+.site-nav .link:hover,
+.site-nav .link:focus {
   color: #03a9f4;
 }
 
-.main .title {
+.article-list .article-group {
   color: #b4ad9e;
+}
+
+.button {
+  color: #707070;
 }
